@@ -1,0 +1,12 @@
+[
+    {
+        "uuid": "abcd1234",
+        "title": "Note 1",
+        "text": "This is the first note"
+    },
+    {
+        "uuid": "efgh5678",
+        "title": "Note 2",
+        "text": "This is the second note"
+    }
+]
